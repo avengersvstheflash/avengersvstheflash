@@ -1,7 +1,13 @@
 <!--
-  Ayush Sharma | GitHub Profile
-  Theme: Dark systems engineering
+  GitHub Profile README
+  Theme: Quiet Systems | Dark engineering | Ice blue + silver
 -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avengersvstheflash/avengersvstheflash/main/profile_banner.png" alt="AI processing pipeline in ice blue and silver" width="100%">
+</div>
+
+---
 
 <div align="center">
 
@@ -13,7 +19,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-avengersvstheflash-181717?style=for-the-badge&logo=github)](https://github.com/avengersvstheflash)
 [![Projects](https://img.shields.io/badge/PROJECTS-EXPLORE-2563EB?style=for-the-badge&logo=stackblitz&logoColor=white)](https://github.com/avengersvstheflash?tab=repositories)
-[![Computer Science](https://img.shields.io/badge/BSc-Computer_Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white)](https://www.uopeople.edu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-swe/)
 
 </div>
 
@@ -92,7 +98,7 @@ A local-first AI reading platform designed to transform large documents into foc
 
 `React + Vite` → `Node.js API` → `SQLite` → `Python FastAPI sidecar`
 
-*Current focus: expanded corpus validation, reliability testing, and v1.0 release readiness.*
+*Current focus: expanded document-corpus validation, reliability testing, and v1.0 release readiness.*
 
 ### ◈ Cape Neto CRM
 
@@ -159,7 +165,8 @@ I'm interested in teams building real products, solving meaningful technical pro
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/avengersvstheflash)
+[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github)](https://github.com/avengersvstheflash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-swe/)
 
 **Explore the repositories. Inspect the implementation. Follow the build.**
 
